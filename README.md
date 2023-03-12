@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <img src="https://github.com/josefluge/josefluge/edit/main/five_phases.png" width="600" height="300"/>
-        <p><a style="font-size:5px !important;" href="https://giphy.com/gifs/tech-software-macaotech-PoHs1Ne8rcMuZRJted">via GIPHY</a></p>
     <div id="badges">
         <a href="https://www.linkedin.com/in/josef-maximilian-luge">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -20,11 +19,10 @@
 Hi there 👋
 
 - 🔭 I’m currently working on a project as fullstack software developer for managing construction projects.
-- 🌱 I’m currently learning more on software architecture and message brokers while studying MiM (Master in Management) at TUM in Munich
-<-- - 👯 I’m looking to collaborate on ... -->
+- 🌱 I’m currently learning more on software architecture and message brokers while studying MiM (Master in Management) at TUM in Munich.
 - 🤔 I’m looking for help with best practices in testing regarding Django and Python in general.
-- 💬 Ask me about anything related on Frontend programming in Typescript and Backend design regarding Django
-- 📫 How to reach me: write me on LinkedIn or contact me via email
+- 💬 Ask me about anything related on Frontend programming in Typescript and Backend design regarding Django.
+- 📫 How to reach me: write me on LinkedIn or contact me via email.
 
 ---
 
