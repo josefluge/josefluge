@@ -45,10 +45,9 @@ Hi there 👋
 ---
 
 ### :fire: My Stats :
-![Commits](https://github-readme-stats.vercel.app/api?username=josefluge&show_icons=true&theme=vue-dark&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josefluge&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD952F&fire=DD9012)](https://git.io/streak-stats)
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josefluge&theme=vue-dark&hide_border=true)
+![Commits](https://github-readme-stats.vercel.app/api?username=josefluge&count_private=true&show_icons=true&theme=gotham&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseflugetheme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD952F&fire=DD9012)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josefluge&theme=gotham&hide_border=true)
 <!--(https://github.com/<username>/<repository_name>) -->
 
 ---
