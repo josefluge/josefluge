@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://github.com/josefluge/josefluge/edit/main/five_phases.png" width="600" height="300"/>
+    <img src="https://github.com/josefluge/josefluge/blob/main/five_phases.png" width="600" height="600"/>
     <div id="badges">
         <a href="https://www.linkedin.com/in/josef-maximilian-luge">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
